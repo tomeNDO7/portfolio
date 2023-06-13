@@ -1,4 +1,0 @@
-３つのipynbファイルがある。それぞれ
-preprocessは前処理に使う
-trainingでモデルの訓練し、
-inferenceでテストデータに対し推論する。
